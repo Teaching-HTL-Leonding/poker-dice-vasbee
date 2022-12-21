@@ -1,0 +1,15 @@
+C:\Users\spieg\OneDrive\Desktop\HTL\Übungen\0039PokerDice\bin\Debug\net6.0\0039PokerDice.exe
+C:\Users\spieg\OneDrive\Desktop\HTL\Übungen\0039PokerDice\bin\Debug\net6.0\0039PokerDice.deps.json
+C:\Users\spieg\OneDrive\Desktop\HTL\Übungen\0039PokerDice\bin\Debug\net6.0\0039PokerDice.runtimeconfig.json
+C:\Users\spieg\OneDrive\Desktop\HTL\Übungen\0039PokerDice\bin\Debug\net6.0\0039PokerDice.dll
+C:\Users\spieg\OneDrive\Desktop\HTL\Übungen\0039PokerDice\bin\Debug\net6.0\0039PokerDice.pdb
+C:\Users\spieg\OneDrive\Desktop\HTL\Übungen\0039PokerDice\obj\Debug\net6.0\0039PokerDice.csproj.AssemblyReference.cache
+C:\Users\spieg\OneDrive\Desktop\HTL\Übungen\0039PokerDice\obj\Debug\net6.0\0039PokerDice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spieg\OneDrive\Desktop\HTL\Übungen\0039PokerDice\obj\Debug\net6.0\0039PokerDice.AssemblyInfoInputs.cache
+C:\Users\spieg\OneDrive\Desktop\HTL\Übungen\0039PokerDice\obj\Debug\net6.0\0039PokerDice.AssemblyInfo.cs
+C:\Users\spieg\OneDrive\Desktop\HTL\Übungen\0039PokerDice\obj\Debug\net6.0\0039PokerDice.csproj.CoreCompileInputs.cache
+C:\Users\spieg\OneDrive\Desktop\HTL\Übungen\0039PokerDice\obj\Debug\net6.0\0039PokerDice.dll
+C:\Users\spieg\OneDrive\Desktop\HTL\Übungen\0039PokerDice\obj\Debug\net6.0\refint\0039PokerDice.dll
+C:\Users\spieg\OneDrive\Desktop\HTL\Übungen\0039PokerDice\obj\Debug\net6.0\0039PokerDice.pdb
+C:\Users\spieg\OneDrive\Desktop\HTL\Übungen\0039PokerDice\obj\Debug\net6.0\0039PokerDice.genruntimeconfig.cache
+C:\Users\spieg\OneDrive\Desktop\HTL\Übungen\0039PokerDice\obj\Debug\net6.0\ref\0039PokerDice.dll
